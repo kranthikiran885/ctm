@@ -1,0 +1,9 @@
+{
+  "buildCommand": "pnpm install && pnpm build",
+  "framework": "nextjs",
+  "rootDirectory": "college-cosmos-home",
+  "installCommand": "pnpm install --frozen-lockfile",
+  "outputDirectory": "college-cosmos-home/.next",
+  "regions": ["sfo1"],
+  "public": true
+}
